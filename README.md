@@ -1,3 +1,5 @@
+Supporting code to the Publication [doi]
+
 ## Installation
 
 ##### Clone Repository
@@ -28,3 +30,6 @@ python /path/to/deepfmpo/DeepVL.py -c configuration.txt
 ```
 
 For more details see folder [documentation](documentation).
+
+## Contact
+christoph.grebner@sanofi.com
