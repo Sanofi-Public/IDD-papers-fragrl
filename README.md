@@ -1,4 +1,4 @@
-Supporting code to the Publication [doi]
+Supporting code to the Publication [Integrating Reaction Schemes, Reagent Databases, and Virtual Libraries into Fragment-Based Design by Reinforcement Learning](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00735); doi.org/10.1021/acs.jcim.3c00735
 
 ## Installation
 
